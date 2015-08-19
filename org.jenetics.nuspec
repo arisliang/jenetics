@@ -1,0 +1,21 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>Jenetics</id>
+    <version>3.2.0</version>
+    <authors>lycn</authors>
+    <owners>lycn</owners>
+    <licenseUrl>http://sinbuild01</licenseUrl>
+    <projectUrl>http://sinbuild01</projectUrl>
+    <requireLicenseAcceptance>true</requireLicenseAcceptance>
+    <description>.NET wrapper for Java Jenetics framework</description>
+    <releaseNotes>Summary of changes made in this release of the package.</releaseNotes>
+    <copyright>Copyright 2015</copyright>
+	<dependencies>
+	  <dependency id="IKVM" version="8.0.5449.1" />
+	</dependencies>
+  </metadata>
+  <files>
+    <file src="org.jenetics\build\libs\org.jenetics-3.2.0.dll" target="lib\org.jenetics-3.2.0.dll" />
+  </files>
+</package>
